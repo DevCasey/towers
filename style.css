@@ -1,0 +1,28 @@
+.container {
+    height: 600px;
+    width: 600px;
+    margin: auto;
+   
+}
+
+button {
+    display: block;
+}
+.col-1 {
+    background: green;
+    height: 15px;
+    width: 45px
+}
+
+.col-2 {
+    background: red;
+    height: 15px;
+    width: 70px;
+}
+
+.col-3 {
+    background: yellow;
+    height: 15px;
+    width: 100px;
+}
+
